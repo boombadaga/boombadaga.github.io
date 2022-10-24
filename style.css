@@ -1,0 +1,14 @@
+body{
+    background-color: rosybrown;
+}
+nav{
+    float: right;
+}
+nav ul{
+    font-size: 100%;
+    color: white;
+}
+nav ul li a{
+    font-size: 100%;
+    color: white;
+}
