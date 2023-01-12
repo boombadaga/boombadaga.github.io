@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  color: lime;
+}
+
+.text-align {
+  text-align: center;
+}
+
+.containerIndex {
+  font-size: 500%;
+}
+
+.noSpacing {
+  margin: 1%;
+  padding: 0px;
+}
+
+a:link {
+  color: lime;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lime;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lime;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: lime;
+  background-color: transparent;
+  text-decoration: underline;
+}
