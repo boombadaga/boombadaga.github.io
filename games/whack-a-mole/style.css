@@ -43,3 +43,32 @@ body{
     right: 5px;
     z-index: -1;
 }
+
+body {
+  background-color: black;
+  color: lime;
+}
+
+a:link {
+  color: lime;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lime;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lime;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: lime;
+  background-color: transparent;
+  text-decoration: underline;
+}

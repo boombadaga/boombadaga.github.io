@@ -3,3 +3,32 @@ canvas{
     left: 27%;
     top: 15%;
 }
+
+body {
+  background-color: darkslategray;
+  color: lime;
+}
+
+a:link {
+  color: lime;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lime;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lime;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: lime;
+  background-color: transparent;
+  text-decoration: underline;
+}
