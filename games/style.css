@@ -1,11 +1,5 @@
-canvas{
-    position: absolute;
-    left: 27%;
-    top: 15%;
-}
-
 body {
-  background-color: rgb(40, 40, 40);
+  background-color: black;
   color: lime;
 }
 
