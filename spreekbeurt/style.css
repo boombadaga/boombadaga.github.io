@@ -8,6 +8,17 @@ button {
   background-color: yellowgreen;
 }
 
+.javascript {
+  margin-top: -150px;
+  border: 1px solid white;
+}
+
+@media screen and (max-width: 1280px) {
+  .javascript {
+    margin-top: 2px;
+  }
+}
+
 .big-button {
   width: 150px;
   height: 50px;
