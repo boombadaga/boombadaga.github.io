@@ -92,9 +92,3 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
-
-a:active {
-  color: lime;
-  background-color: transparent;
-  text-decoration: underline;
-}
