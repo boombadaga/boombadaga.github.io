@@ -3,26 +3,27 @@ body {
   color: lime;
 }
 
-a:link {
-  color: lime;
-  background-color: transparent;
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
-a:visited {
-  color: lime;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: lime;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: lime;
-  background-color: transparent;
-  text-decoration: underline;
+li a:hover {
+  background-color: lime;
+  color: black;
 }
