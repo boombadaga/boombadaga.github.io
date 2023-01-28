@@ -1,7 +1,6 @@
-canvas{
-    position: absolute;
-    left: 27%;
-    top: 15%;
+canvas {
+  text-align: center;
+  justify-content: center;
 }
 
 body {
