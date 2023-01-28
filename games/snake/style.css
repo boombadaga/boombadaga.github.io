@@ -1,14 +1,14 @@
-#gameContainer{
+#gameContainer {
   text-align: center;
 }
-#gameBoard{
+#gameBoard {
   border: 3px solid;
 }
-#scoreText{
+#scoreText {
   font-family: "Permanent Marker", cursive;
   font-size: 100px;
 }
-#resetBtn{
+#resetBtn {
   font-family: "Permanent Marker", cursive;
   font-size: 22px;
   width: 100px;
